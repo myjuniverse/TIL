@@ -1,14 +1,14 @@
 # TIL - 2025.07.08
 # Vue.js 입문 시 필수 개념 정리 (Vue 3 기준)
 
-## ✅ 1. Vue의 핵심 개념 구조
+## 1. Vue의 핵심 개념 구조
 - MVVM(Model-View-ViewModel) 패턴 기반
 - template + script + style → 컴포넌트 단위 구성
 - 반응형(Reactivity) 시스템이 핵심: `ref`, `reactive`
 
 ---
 
-## ✅ 2. 기초 개념
+## 2. 기초 개념
 
 ### 2-1. 컴포넌트(Component)
 - 재사용 가능한 UI 단위
@@ -25,7 +25,7 @@
 
 ---
 
-## ✅ 3. 핵심 디렉티브 사용법
+## 3. 핵심 디렉티브 사용법
 
 | 디렉티브    | 용도              |
 |-------------|-------------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## ✅ 4. Composition API vs Options API
+## 4. Composition API vs Options API
 - Vue 3에서는 Composition API가 공식 권장 방식
 ```vue
 <script setup>
