@@ -45,3 +45,9 @@ import { ref } from 'vue'
 
 const count = ref(0)
 </script>
+```
+
+---
+
+## 💻 mac 백틱(`) 
+영문으로 ₩ 입력시 ` 사용가능
